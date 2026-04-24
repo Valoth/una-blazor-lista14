@@ -3,7 +3,7 @@
 ## Identificação
 
 **Nome:** Luan Mauricio
-**Curso:** (coloque aqui o nome do seu curso)
+**Curso:** Ciência da Computação
 
 ---
 
@@ -62,20 +62,3 @@ Ainda assim, caso necessário:
 * O código é legível e de fácil manutenção
 
 A documentação pode ser facilmente acessada diretamente no repositório, facilitando o entendimento das funcionalidades e fluxos da aplicação.
-
----
-
-## Estrutura do Projeto
-
-```
-MeuCurriculo/
-│
-├── Components/
-├── Pages/
-├── Layout/
-├── Models/
-├── wwwroot/
-├── App.razor
-├── Program.cs
-└── MeuCurriculo.csproj
-```

@@ -47,7 +47,7 @@ https://localhost:xxxx
 
 Abaixo está um print da aplicação em funcionamento:
 
-![Screenshot da aplicação](MeuCurriculo/exemplo.png)
+![Screenshot da aplicação](curriculoBlazor/exemplo.png)
 
 ---
 
